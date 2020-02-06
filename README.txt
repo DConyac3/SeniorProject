@@ -1,0 +1,4 @@
+I've recently lost access to my msudenver.edu email, so until I am able to work out access back to my previous github account (https://github.com/dconyac), please visit my team's github profile (https://github.com/OodlesOfMoodles) to look at what we worked on for our senior project!
+
+A note on our senior project: 
+The project was focused on the Software Engineering process. We utilized SCRUM Agile methodologies in ours. We had a new presentation every 2 weeks regarding our process and progress and compiled a detailed document at the end that totalled 101 pages. It was everyone's first time woking with PHP in any capacity and every person on my team worked wonderfully together. I am proud of this project not only because of what was accomplished, but also because of the fantastic team environment we created in the process.
